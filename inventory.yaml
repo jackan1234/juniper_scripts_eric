@@ -3,8 +3,17 @@ devices:
     host: 192.168.90.182
     user: ericzet
     password: Tagg!s123!#%9
+    role: leaf
 
   - name: leaf-2
     host: 192.168.90.183
     user: ericzet
     password: Tagg!s123!#%9
+    role: leaf
+
+  - name: leaf-3
+    host: 192.168.90.185
+    user: ericzet
+    password: Tagg!s123!#%9
+    role: leaf
+

@@ -97,7 +97,7 @@ else:
 # FULL CONFIGURATION SNIPPET
 # -----------------------------
 config_snippet = """
-set interfaces ae1 unit 105 description test_105
+set interfaces ae1 unit 105 description test_105_2
 set interfaces ae1 unit 105 encapsulation vlan-bridge
 set interfaces ae1 unit 105 vlan-id 105
 set interfaces irb unit 105 family inet address 10.20.105.254/24
