@@ -1,0 +1,10 @@
+devices:
+  - name: leaf-1
+    host: 192.168.90.182
+    user: ericzet
+    password: Tagg!s123!#%9
+
+  - name: leaf-2
+    host: 192.168.90.183
+    user: ericzet
+    password: Tagg!s123!#%9
